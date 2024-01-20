@@ -13,17 +13,17 @@ Processes consist of a resource input and a product output, based on accepted in
 5. Iron Production
 6. Steel Production
 7. Concrete Production
-8. Lumbering
+8. Logging
 9. Paper Production
 10. Cardboard Production
 11. Lumber Milling
 8. Chemical Production
 8. Fertilizer Production
 9. Wastewater Treatment
-10. Inland Fishing
-11. Railroad Freight Delivery
-12. Roadway Freight Delivery
-13. Maritime Freight Delivery
+10. Fishing
+11. Railroad Freight
+12. Roadway Freight
+13. Maritime Freight
 14. Roadway Transportation
 15. Air Transportation
 16. Marine Transportation
